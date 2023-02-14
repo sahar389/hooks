@@ -2,7 +2,7 @@ import React from 'react'
 import MovieCard from './MovieCard'
 
 
-const MovieList = ({moviesData ,title}) => {
+const MovieList = ({moviesData ,title,rating}) => {
   
   
   return (
